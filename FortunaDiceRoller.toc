@@ -1,0 +1,15 @@
+## Interface: 80100
+## Title: Fortuna Dice Roller
+## Author: buranburan
+## Version: 1.0
+## Notes: A d20 and Fortuna system dice roller.
+## SavedVariables: FortunaDiceRollerDB
+## OptionalDeps: Ace3, CrossRP
+## X-Embeds: Ace3
+
+embeds.xml
+globals.lua
+playerdata.lua
+dice.lua
+GUI.lua
+FortunaDiceRoller.lua
